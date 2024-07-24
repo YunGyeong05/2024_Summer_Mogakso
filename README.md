@@ -8,4 +8,4 @@
   
 * 20240724
 
-  Udemy 웹개발 부트캠프 인강 Section 8 완강 + CSS 박스 모델과 CSS 단위 개념 이해
+  Udemy 웹개발 부트캠프 인강 Section 8 완강 + CSS 박스 모델 및 CSS에서 사용되는 단위 개념 이해
