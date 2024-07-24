@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+div {
+    width: 200px;
+    height: 300px;
+    background-color: #caf0f8;
+}
+
+h1 {
+    background-color: rgb(144, 144, 245);
+    width: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    margin: 0;
+}
+
+#one {
+    background-color: #90e0ef;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 20px;
+}
+
+#two {
+    background-color: #00b4d8;
+    border-width: 3px;
+    border-color: #01517d;
+    border-style: dashed;
+    border-left-width: 7px;
+    border-left-color: #a987b5;
+    margin-bottom: 20px;
+}
+
+#three {
+    background-color: #0077b6;
+    border: 4px solid #13012c;
+    border-left-style: dotted;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
